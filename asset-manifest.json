@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jareb-w-dev/static/css/main.a5c1bebb.css",
+    "main.js": "/jareb-w-dev/static/js/main.e529cf33.js",
+    "static/js/453.012fe0f4.chunk.js": "/jareb-w-dev/static/js/453.012fe0f4.chunk.js",
+    "static/media/audio.mp3": "/jareb-w-dev/static/media/audio.338b6854babbb17d0301.mp3",
+    "static/media/logo.svg": "/jareb-w-dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jareb-w-dev/index.html",
+    "main.a5c1bebb.css.map": "/jareb-w-dev/static/css/main.a5c1bebb.css.map",
+    "main.e529cf33.js.map": "/jareb-w-dev/static/js/main.e529cf33.js.map",
+    "453.012fe0f4.chunk.js.map": "/jareb-w-dev/static/js/453.012fe0f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5c1bebb.css",
+    "static/js/main.e529cf33.js"
+  ]
+}
