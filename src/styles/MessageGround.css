@@ -1,0 +1,42 @@
+.MessageGround {
+    background-color: #000000;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow: scroll;
+}
+
+
+.message {
+    max-width: 70%;
+    display: flex;
+    &.own {
+        align-self: flex-end;
+    }
+}
+
+#message {
+    color: #ffffff;
+}
+
+#miniPic_user {
+    background-image: url("../pics/userProfilePic.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#userChat {
+    flex-direction: row-reverse;
+    margin-bottom: 10px;
+}
+
+#user_chat_info {
+    margin-left: auto;
+}
+
+#botChat {
+    margin-bottom: 10px;
+}
